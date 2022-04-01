@@ -47,7 +47,7 @@ class _AddProductPageState extends State<AddProductPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Add Product'),
+        title: const Text('Add Food'),
       ),
       body: Form(
         key: _addFormKey,
